@@ -63,7 +63,7 @@ Our solution for the above mentioned problem is to develop a system for automati
 ### You can see our final product and how the water supplying process works by this link.
 https://www.youtube.com/watch?v=Bdy93vh6bB4&feature=youtu.be
 
-### Links  
+## Links  
 - <a href = "https://github.com/cepdnaclk/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland" target = "_blank"> Project Repository </a>
 - <a href = "https://cepdnaclk.github.io/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
