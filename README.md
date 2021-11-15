@@ -15,9 +15,9 @@ title: An automated system for monitoring and controlling the water supply to a 
 ---
 
 ## Team
--  E/15/138, M.M.M. Irfan, [e15138@eng.pdn.ac.lk](mailto:e15138@eng.pdn.ac.lk)
--  E/15/209, H.K. Madhushani, [e15209@eng.pdn.ac.lk](mailto:e15209@eng.pdn.ac.lk)
--  E/15/307, L. Rishikeshan, [e15307@eng.pdn.ac.lk](mailto:e15307@eng.pdn.ac.lk)
+-  E/15/138, M.M.M. Irfan, [irfanmm96@gmail.com](mailto:irfanmm96@gmail.com)
+-  E/15/209, H.K. Madhushani, [kithmamadushani1@gmail.com](mailto:kithmamadushani1@gmail.com)
+-  E/15/307, L. Rishikeshan, [work@ris.fi](mailto:work@ris.fi)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -36,7 +36,7 @@ This is a system for automatically controlling the amount of water flow in a soi
 
 ## Solution Architecture
 
-Our solution for the above mentioned problem is to develop a system for automatically controlling the amount of water flow in a soil field for maintaining the correct amount of water over it. The idea is to sense the amount of water using a device with an embedded system. The device has sensing elements where it measures the electrical conductivity and those results are used to estimate the amount of water the soil has. The system could be controlled by a controller/supervisor or it can be done in an automated way. The device will automatically switch off the water supplier when the highest level is reached and switch on the motor when the lowest level is reached. 
+Our solution for the above mentioned problem is to develop a system for automatically controlling the amount of water flow in a soil field for maintaining the correct amount of water over it. The idea is to sense the amount of water using a device with an embedded system. The device has sensing elements where it measures the electrical conductivity and those results are used to estimate the amount of water the soil has. The system could be controlled by a controller/supervisor or it can be done in an automated way. The device will automatically switch off the water supplier when the highest level is reached and switch on the motor when the lowest level is reached.
 
 ## Hardware and Software Designs
 
